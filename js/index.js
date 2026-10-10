@@ -584,8 +584,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const details = detailsInput ? detailsInput.value.trim() : "";
 
       const message = [
-        "مرحباً، أريد طلب عرض سعر لخدمات الع
-        زل.",
+        "مرحباً، أريد طلب عرض سعر لخدمات العزل.",
         "",
         "الاسم: " + name,
         "رقم الجوال: " + phone,
