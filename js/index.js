@@ -584,7 +584,8 @@ document.addEventListener("DOMContentLoaded", function () {
       const details = detailsInput ? detailsInput.value.trim() : "";
 
       const message = [
-        "مرحباً، أريد طلب عرض سعر لخدمات العزل.",
+        "مرحباً، أريد طلب عرض سعر لخدمات الع
+        زل.",
         "",
         "الاسم: " + name,
         "رقم الجوال: " + phone,
@@ -608,7 +609,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   const footerCompanyData = {
-    name: "شركة العزل",
+    name: "شركة التاج",
     tagline: "حماية تدوم وجودة تثق بها",
     phoneDisplay: "0556449337",
     phoneInternational: "+966556449337",
